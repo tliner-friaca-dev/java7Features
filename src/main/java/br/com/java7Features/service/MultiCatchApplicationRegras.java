@@ -10,7 +10,7 @@ public class MultiCatchApplicationRegras {
             throw new CadastroException("Nome é obrigatório para realizar o cadastro!!!");
         }
 
-        int idadeNumero = Integer.parseInt(idade);
+        //int idadeNumero = Integer.parseInt(idade);
 
         System.out.println("\n\nOperação realizada com sucesso.");
         System.out.println("Nome: " + nome);
