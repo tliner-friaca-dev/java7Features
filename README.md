@@ -34,7 +34,7 @@ Este projeto trata-se da implementa&ccedil;&atilde;o de algumas Features do Java
 
 <p>&nbsp;</p>
 
-<h3><u>As Defini&ccedil;&atilde;o abaixo foram copiadas do <a href="https://www.oracle.com/java/technologies/javase/jdk7-relnotes.html">site do Oracle</a></u></h3>
+<h3><u>As definições abaixo foram copiadas do <a href="https://www.oracle.com/java/technologies/javase/jdk7-relnotes.html">site do Oracle</a></u></h3>
 
 <br />
 <h4><strong><u>Diamond:</u></strong><h4>
